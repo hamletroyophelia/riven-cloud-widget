@@ -1,0 +1,45 @@
+{
+  "localizedNames" : {
+    "de" : "",
+    "ru" : "",
+    "en" : "",
+    "zh" : "",
+    "it" : "",
+    "pt" : "",
+    "fr" : "",
+    "ja" : "",
+    "es" : ""
+  },
+  "permissions" : null,
+  "name" : "Riven Cloud",
+  "color" : "#747BFF",
+  "remoteResource" : null,
+  "author" : {
+    "homepage" : "https:\/\/github.com\/hamletroyophelia",
+    "name" : "Roy",
+    "email" : "gassy-41consist@icloud.com"
+  },
+  "version" : "1.0.0",
+  "entry" : "index.tsx",
+  "intentInputTypes" : [
+
+  ],
+  "iconImage" : "",
+  "runInApp" : false,
+  "description" : "",
+  "icon" : "server.rack",
+  "localizedDescriptions" : {
+    "fr" : "",
+    "it" : "",
+    "pt" : "",
+    "en" : "",
+    "de" : "",
+    "zh" : "",
+    "es" : "",
+    "ru" : "",
+    "ja" : ""
+  },
+  "contributors" : [
+
+  ]
+}
